@@ -1,0 +1,27 @@
+
+.subtotal_infoColumn {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .subtotal_infoImage {
+    height: 50px;
+    width: 70px;
+    margin: 10px;
+  }
+  .subtotal_info {
+    margin: 20px 20px;
+  }
+  
+  
+  .subtotal_infoColumn > span > h4{
+  margin-top: 10px;
+    font-weight: 400 !important;
+  }
+  
+  .subtotal_infoColumn > span {
+    
+    font-style: oblique;
+  }
+  
