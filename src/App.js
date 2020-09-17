@@ -14,7 +14,7 @@ import {Elements} from "@stripe/react-stripe-js"
 import Order from './Component/Order'
 
 const promise =loadStripe(
-  "pk_test_51HQGp5EDpRoUxaMyzHSrw1jau1WGPNadVB1CBuWE5IeIV6NqIXciZxBJHIEpyt3X1GCBfVLJbOFpEML3oZmCs3ds0090frKegA"
+  "Public_key"
 );
 
 console.log(promise)
